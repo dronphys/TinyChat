@@ -1,7 +1,9 @@
 set(CLIENT_APP TinyClient)
 add_executable(${CLIENT_APP} 
     main.cpp
-    client.cpp)
+    client.cpp
+    clientApplication.cpp
+    userInterface.cpp)
     
 target_link_libraries(${CLIENT_APP} PRIVATE networking)
 
