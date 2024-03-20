@@ -1,0 +1,2 @@
+add_executable(TinyServer TinyServer.cpp)
+target_link_libraries(TinyServer PRIVATE networking)

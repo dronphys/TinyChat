@@ -1,0 +1,15 @@
+E:\dev\libs\glfw-3.3.8\src\context.c;E:\dev\libs\glfw-3.3.8\build\src\glfw.dir\Release\context.obj
+E:\dev\libs\glfw-3.3.8\src\init.c;E:\dev\libs\glfw-3.3.8\build\src\glfw.dir\Release\init.obj
+E:\dev\libs\glfw-3.3.8\src\input.c;E:\dev\libs\glfw-3.3.8\build\src\glfw.dir\Release\input.obj
+E:\dev\libs\glfw-3.3.8\src\monitor.c;E:\dev\libs\glfw-3.3.8\build\src\glfw.dir\Release\monitor.obj
+E:\dev\libs\glfw-3.3.8\src\vulkan.c;E:\dev\libs\glfw-3.3.8\build\src\glfw.dir\Release\vulkan.obj
+E:\dev\libs\glfw-3.3.8\src\window.c;E:\dev\libs\glfw-3.3.8\build\src\glfw.dir\Release\window.obj
+E:\dev\libs\glfw-3.3.8\src\win32_init.c;E:\dev\libs\glfw-3.3.8\build\src\glfw.dir\Release\win32_init.obj
+E:\dev\libs\glfw-3.3.8\src\win32_joystick.c;E:\dev\libs\glfw-3.3.8\build\src\glfw.dir\Release\win32_joystick.obj
+E:\dev\libs\glfw-3.3.8\src\win32_monitor.c;E:\dev\libs\glfw-3.3.8\build\src\glfw.dir\Release\win32_monitor.obj
+E:\dev\libs\glfw-3.3.8\src\win32_time.c;E:\dev\libs\glfw-3.3.8\build\src\glfw.dir\Release\win32_time.obj
+E:\dev\libs\glfw-3.3.8\src\win32_thread.c;E:\dev\libs\glfw-3.3.8\build\src\glfw.dir\Release\win32_thread.obj
+E:\dev\libs\glfw-3.3.8\src\win32_window.c;E:\dev\libs\glfw-3.3.8\build\src\glfw.dir\Release\win32_window.obj
+E:\dev\libs\glfw-3.3.8\src\wgl_context.c;E:\dev\libs\glfw-3.3.8\build\src\glfw.dir\Release\wgl_context.obj
+E:\dev\libs\glfw-3.3.8\src\egl_context.c;E:\dev\libs\glfw-3.3.8\build\src\glfw.dir\Release\egl_context.obj
+E:\dev\libs\glfw-3.3.8\src\osmesa_context.c;E:\dev\libs\glfw-3.3.8\build\src\glfw.dir\Release\osmesa_context.obj

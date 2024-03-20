@@ -1,0 +1,5 @@
+﻿  Building Custom Rule E:/dev/libs/glfw-3.3.8/tests/CMakeLists.txt
+  icon.c
+  glad_gl.c
+  Generating Code...
+  icon.vcxproj -> E:\dev\libs\glfw-3.3.8\build\tests\Release\icon.exe

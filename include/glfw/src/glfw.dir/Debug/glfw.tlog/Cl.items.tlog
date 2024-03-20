@@ -1,0 +1,15 @@
+E:\dev\SimpleRayTracer-master\external\glfw\src\context.c;E:\dev\SimpleRayTracer-master\external\glfw\src\glfw.dir\Debug\context.obj
+E:\dev\SimpleRayTracer-master\external\glfw\src\init.c;E:\dev\SimpleRayTracer-master\external\glfw\src\glfw.dir\Debug\init.obj
+E:\dev\SimpleRayTracer-master\external\glfw\src\input.c;E:\dev\SimpleRayTracer-master\external\glfw\src\glfw.dir\Debug\input.obj
+E:\dev\SimpleRayTracer-master\external\glfw\src\monitor.c;E:\dev\SimpleRayTracer-master\external\glfw\src\glfw.dir\Debug\monitor.obj
+E:\dev\SimpleRayTracer-master\external\glfw\src\vulkan.c;E:\dev\SimpleRayTracer-master\external\glfw\src\glfw.dir\Debug\vulkan.obj
+E:\dev\SimpleRayTracer-master\external\glfw\src\window.c;E:\dev\SimpleRayTracer-master\external\glfw\src\glfw.dir\Debug\window.obj
+E:\dev\SimpleRayTracer-master\external\glfw\src\win32_init.c;E:\dev\SimpleRayTracer-master\external\glfw\src\glfw.dir\Debug\win32_init.obj
+E:\dev\SimpleRayTracer-master\external\glfw\src\win32_joystick.c;E:\dev\SimpleRayTracer-master\external\glfw\src\glfw.dir\Debug\win32_joystick.obj
+E:\dev\SimpleRayTracer-master\external\glfw\src\win32_monitor.c;E:\dev\SimpleRayTracer-master\external\glfw\src\glfw.dir\Debug\win32_monitor.obj
+E:\dev\SimpleRayTracer-master\external\glfw\src\win32_time.c;E:\dev\SimpleRayTracer-master\external\glfw\src\glfw.dir\Debug\win32_time.obj
+E:\dev\SimpleRayTracer-master\external\glfw\src\win32_thread.c;E:\dev\SimpleRayTracer-master\external\glfw\src\glfw.dir\Debug\win32_thread.obj
+E:\dev\SimpleRayTracer-master\external\glfw\src\win32_window.c;E:\dev\SimpleRayTracer-master\external\glfw\src\glfw.dir\Debug\win32_window.obj
+E:\dev\SimpleRayTracer-master\external\glfw\src\wgl_context.c;E:\dev\SimpleRayTracer-master\external\glfw\src\glfw.dir\Debug\wgl_context.obj
+E:\dev\SimpleRayTracer-master\external\glfw\src\egl_context.c;E:\dev\SimpleRayTracer-master\external\glfw\src\glfw.dir\Debug\egl_context.obj
+E:\dev\SimpleRayTracer-master\external\glfw\src\osmesa_context.c;E:\dev\SimpleRayTracer-master\external\glfw\src\glfw.dir\Debug\osmesa_context.obj

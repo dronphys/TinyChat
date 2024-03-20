@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\dev\SimpleRayTracer-master\CMakeFiles\fbf91c8f84e31288a0f41a8ff19efe9e\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\dev\SimpleRayTracer-master\external\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\dev\SimpleRayTracer-master\external\glfw\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\dev\SimpleRayTracer-master\external\glfw\CMake\GenerateMappings.cmake" />
+    <None Include="E:\dev\SimpleRayTracer-master\external\glfw\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5DFE96FC-FA5C-3EFE-AB53-62681E46F5B4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{BA89B2BB-1D50-3F0A-A4F4-C20C94B06219}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

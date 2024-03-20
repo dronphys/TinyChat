@@ -1,0 +1,5 @@
+add_executable(imguitest main.cpp)
+set(THIS_PROJECT imguitest)
+target_link_libraries(${THIS_PROJECT} imgui)
+target_link_libraries(${THIS_PROJECT} glad)
+target_link_libraries(${THIS_PROJECT} glfw)
